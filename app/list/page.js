@@ -26,7 +26,7 @@ export default function List() {
       </Link>
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-extrabold text-emerald-400 mb-3">
+          <h1 className="text-5xl font-extrabold text-emerald-400 mb-3 mt-5">
             User List
           </h1>
           <p className="text-gray-400 text-lg">
