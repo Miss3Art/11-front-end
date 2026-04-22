@@ -23,6 +23,10 @@ export default function Home() {
             href="/contact"
             className="px-8 py-3 bg-emerald-500 text-black font-semibold rounded-xl hover:bg-emerald-400 transition"
           >Contact</a>
+          <a
+            href="/list"
+            className="px-8 py-3 bg-emerald-500 text-black font-semibold rounded-xl hover:bg-emerald-400 transition"
+          >Users</a>
         </div>
       </div>
     </div>
