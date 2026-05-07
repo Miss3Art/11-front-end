@@ -24,7 +24,7 @@ export default function List() {
   }, [debouncedQuery]);
 
   return (
-    <div className="min-h-screen bg-gray-950 text-white py-12 relative overflow-hidden">
+    <div className="min-h-screen bg-gray-950 text-white py-20 relative overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(at_top_right,#10b98120_0%,transparent_50%)]" />
 
       <Link
